@@ -1,5 +1,0 @@
-  "lint-staged": {
-    "src/**/*": [
-      "yarn lint --fix"
-    ]
-  },
