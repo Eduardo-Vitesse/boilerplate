@@ -33,12 +33,12 @@
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.0",
+    "@babel/core": "^7.18.5",
     "@babel/preset-typescript": "^7.17.12",
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-essentials": "^6.5.5",
     "@storybook/addon-interactions": "^6.4.22",
-    "@storybook/addon-links": "^6.5.5",
+    "@storybook/addon-links": "^6.5.7",
     "@storybook/react": "^6.4.22",
     "@storybook/testing-library": "^0.0.11",
     "@testing-library/jest-dom": "^5.16.4",
